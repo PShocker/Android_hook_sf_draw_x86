@@ -23,5 +23,6 @@ chmod 777 inject
 
 https://blog.csdn.net/jinzhuojun/article/details/9900105
 
+https://github.com/android/ndk-samples/tree/main/hello-gl2
 
 ![image](img/img.jpg)
