@@ -22,3 +22,6 @@ chmod 777 inject
 参考了这篇文章
 
 https://blog.csdn.net/jinzhuojun/article/details/9900105
+
+
+![image](img/img.jpg)
