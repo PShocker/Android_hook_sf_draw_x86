@@ -1,0 +1,2 @@
+# Android_hook_sf_draw_x86
+hook surfaceflinger进程的eglSwapBuffers方式实现绘制,适用雷电模拟器3.
